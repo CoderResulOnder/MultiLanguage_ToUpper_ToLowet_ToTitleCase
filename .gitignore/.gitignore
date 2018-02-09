@@ -1,0 +1,5 @@
+ 
+ 
+ CultureInfo.GetCultureInfo("tr-tr").TextInfo.ToUpper("ConvertingValue")
+ CultureInfo.GetCultureInfo("tr-tr").TextInfo.ToLower("ConvertingValue")
+ CultureInfo.GetCultureInfo("tr-tr").TextInfo.ToTitleCase("ConvertingValue")
